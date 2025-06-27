@@ -5,7 +5,7 @@ cloudstream {
     // All of these properties are optional, you can safely remove them
 
     description = "This website support Hindi/English/Kannada/Malayalam/Tamil/Telugu"
-    authors = listOf("megix")
+    authors = listOf("megix", "CodeAxella")
 
     /**
      * Status int as the following:
