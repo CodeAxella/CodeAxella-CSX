@@ -1,0 +1,112 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeAxella/CodeAxella-CSX",
+        "fileSize": 24458,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "megix",
+            "CodeAxella"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "version": 21,
+        "internalName": "Bollyflix",
+        "description": "Movies and Series upto 4K",
+        "url": "https://raw.githubusercontent.com/CodeAxella/CodeAxella-CSX/builds/Bollyflix.cs3",
+        "name": "Bollyflix"
+    },
+    {
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeAxella/CodeAxella-CSX",
+        "fileSize": 298142,
+        "status": 1,
+        "authors": [
+            "megix",
+            "CodeAxella"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime",
+            "Torrent",
+            "Live"
+        ],
+        "version": 171,
+        "internalName": "CineStream",
+        "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
+        "url": "https://raw.githubusercontent.com/CodeAxella/CodeAxella-CSX/builds/CineStream.cs3",
+        "name": "CineStream"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/CinevezProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeAxella/CodeAxella-CSX",
+        "fileSize": 11550,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "megix",
+            "CodeAxella"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "CinevezProvider",
+        "description": "This website support Hindi/English/Kannada/Malayalam/Tamil/Telugu",
+        "url": "https://raw.githubusercontent.com/CodeAxella/CodeAxella-CSX/builds/CinevezProvider.cs3",
+        "name": "CinevezProvider"
+    },
+    {
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Extractors/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeAxella/CodeAxella-CSX",
+        "fileSize": 38541,
+        "status": 1,
+        "authors": [
+            "megix",
+            "CodeAxella"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "version": 63,
+        "internalName": "Extractors",
+        "description": "Must Install(For other extensions to work properly)",
+        "url": "https://raw.githubusercontent.com/CodeAxella/CodeAxella-CSX/builds/Extractors.cs3",
+        "name": "Extractors"
+    },
+    {
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeAxella/CodeAxella-CSX",
+        "fileSize": 42583,
+        "status": 1,
+        "authors": [
+            "megix",
+            "CodeAxella"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 24,
+        "internalName": "NetflixMirrorProvider",
+        "description": "Netflix, PrimeVideo, Disney Hotstar Content in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/CodeAxella/CodeAxella-CSX/builds/NetflixMirrorProvider.cs3",
+        "name": "NetflixMirrorProvider"
+    }
+]
