@@ -16,7 +16,7 @@ android {
 cloudstream {
     // language = "en"
     description = "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents"
-    authors = listOf("megix")
+    authors = listOf("megix", "CodeAxella")
     status = 1
     tvTypes = listOf(
         "TvSeries",
