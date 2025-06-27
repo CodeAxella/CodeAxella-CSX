@@ -5,7 +5,7 @@ cloudstream {
     // All of these properties are optional, you can safely remove them
 
     description = "Must Install(For other extensions to work properly)"
-     authors = listOf("megix")
+     authors = listOf("megix", "CodeAxella")
 
     /**
      * Status int as the following:
