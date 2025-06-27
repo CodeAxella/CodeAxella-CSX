@@ -6,7 +6,7 @@ cloudstream {
     // All of these properties are optional, you can safely remove them
 
     description = "Netflix, PrimeVideo, Disney Hotstar Content in Multiple Languages"
-    authors = listOf("megix")
+    authors = listOf("megix", "CodeAxella")
 
     /**
      * Status int as the following:
